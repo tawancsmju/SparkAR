@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "IMG_8394",
+  "identifier": "texture:4431-f7a79b6b-db8f-419a-920c-2475860165b1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "912650365eb5718f72a8215a719874ad",
+  "assetLocator": "textures/IMG_8394.JPG",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 682,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "912650365eb5718f72a8215a719874ad",
+      "colorCount": 29177,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 10.938050053511432,
+      "pixelsHigh": 682,
+      "pixelsWide": 1024
+    }
+  ]
+}

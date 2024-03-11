@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "traffic-light-6585166_640",
+  "identifier": "texture:25832-f7a79b6b-db8f-419a-920c-2475860165b1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d4d4ad408ebaa549a28253055779d9e6",
+  "assetLocator": "textures/traffic-light-6585166_640.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 640,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 640,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d4d4ad408ebaa549a28253055779d9e6",
+      "colorCount": 3509,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.861519341176893,
+      "pixelsHigh": 640,
+      "pixelsWide": 640
+    }
+  ]
+}
